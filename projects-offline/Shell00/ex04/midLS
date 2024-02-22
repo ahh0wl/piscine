@@ -1,0 +1,2 @@
+ ls -ltc --ignore=. --format=commas --indicator-style=slash
+
